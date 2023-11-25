@@ -1,0 +1,444 @@
+11:57:43.851 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:57:44.311 [main] INFO  Payload.Payload - Start Payload: getCreatePetOrderPayloadFromPojo
+14:35:22.942 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:35:47.945 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:37:33.298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:40:37.699 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:41:02.454 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:42:13.662 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:42:14.122 [main] INFO  Payload.Payload - Start Payload: getCreatePetOrderPayloadFromPojo
+14:44:32.463 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:49:15.986 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:49:39.755 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:49:40.231 [main] INFO  Payload.Payload - Start Payload: getCreatePetOrderPayloadFromPojo
+14:50:15.762 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:50:44.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:50:44.582 [main] INFO  Payload.Payload - Start Payload: getCreatePetOrderPayloadFromPojo
+14:53:58.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:54:11.109 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+14:54:11.122 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+14:54:11.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.130 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.131 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.131 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.132 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.134 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.139 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.139 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.140 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.153 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+14:54:11.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+14:54:11.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:54:11.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:54:11.177 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--664748218\testng-customsuite.xml
+
+14:54:11.204 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+14:54:12.043 [main] ERROR org.testng.internal.Utils - [Error] java.lang.NullPointerException: Cannot invoke &quot;String.equals(Object)&quot; because the return value of &quot;java.util.LinkedHashMap.get(Object)&quot; is null
+	at Test.Pojo_CreateStoresTestScenarios.getCustomizedStoreData(Pojo_CreateStoresTestScenarios.java:105)
+	at Test.Pojo_CreateStoresTestScenarios.getCreateStoreData(Pojo_CreateStoresTestScenarios.java:68)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:53)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:157)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:803)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:728)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:911)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:848)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+	at org.testng.TestNG.runSuites(TestNG.java:1114)
+	at org.testng.TestNG.run(TestNG.java:1082)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+14:54:12.676 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@27fde870: 516 ms
+14:54:13.031 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@26ae880a: 354 ms
+14:54:13.076 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3104351d: 45 ms
+14:54:13.092 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4ae263bf: 15 ms
+14:54:13.114 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@cb0f763: 21 ms
+14:54:13.136 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@178270b2: 22 ms
+14:54:13.137 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@795fd838: 1 ms
+14:56:50.816 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+14:56:52.125 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+14:56:57.176 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:08:23.160 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+15:08:24.476 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:08:28.437 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:14:44.897 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+15:14:46.093 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:14:50.761 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:16:59.586 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+15:17:00.774 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:17:05.552 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:21:18.782 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+15:22:53.367 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+15:23:40.066 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+15:27:19.428 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+15:27:20.645 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:27:24.606 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:27:24.613 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:27:25.713 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:50:24.054 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+15:50:25.560 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:50:29.710 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:50:29.728 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:50:30.916 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:54:32.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+15:54:33.575 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:54:37.508 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:54:37.521 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+15:54:38.679 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:01:09.964 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:01:11.154 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:01:15.217 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:01:15.225 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:01:16.385 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:13.330 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:05:13.341 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+16:05:13.343 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.344 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.345 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.347 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.348 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.348 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.348 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.349 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.349 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.350 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.350 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.350 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.351 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.351 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.354 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.354 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.355 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.355 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.356 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+16:05:13.372 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+16:05:13.374 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.374 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.374 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:05:13.375 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:05:13.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1714999236\testng-customsuite.xml
+
+16:05:13.412 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+16:05:14.598 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:16.310 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:05:18.523 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:19.216 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:20.922 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3375b118: 381 ms
+16:05:21.187 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4c6bba7d: 265 ms
+16:05:21.416 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@11148dc2: 228 ms
+16:05:21.438 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@69e2fe3b: 19 ms
+16:05:21.459 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a19a0fe: 21 ms
+16:05:21.482 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@21090c88: 23 ms
+16:05:21.483 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@d62472f: 1 ms
+16:05:22.649 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:22.654 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:23.803 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:32.906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:05:34.277 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:38.403 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:38.413 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:05:39.623 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:07:57.477 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:07:58.747 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:08:02.620 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:08:02.626 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:08:03.855 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:19:58.340 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:19:59.591 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:20:03.570 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:20:03.581 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:20:04.784 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:23:15.097 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:23:16.346 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:23:20.250 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:23:20.257 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:23:21.396 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:27:31.515 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:27:32.817 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:27:36.568 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+16:27:36.581 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:41:31.197 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:41:32.488 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:41:37.535 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:46:14.290 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:46:15.467 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:46:20.575 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:47:08.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:47:09.591 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:47:14.345 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:50:08.427 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:50:09.618 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:50:14.174 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:55:14.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:55:15.908 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:55:20.528 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:57:45.505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+16:57:46.765 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+16:57:51.752 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:09:40.524 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:09:41.711 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:09:46.394 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:13:03.007 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:13:04.265 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:13:09.095 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:13:09.115 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:14:36.811 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:14:38.066 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:14:42.984 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:14:42.993 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:18:11.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:18:11.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+18:18:11.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.592 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.592 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.593 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.593 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.595 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.595 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.596 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.597 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.600 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.601 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.602 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.602 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+18:18:11.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+18:18:11.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:18:11.622 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:18:11.634 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1361468220\testng-customsuite.xml
+
+18:18:11.654 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+18:18:12.513 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:18:23.825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:18:25.127 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:18:29.793 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:18:29.800 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:18:31.018 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:20:49.477 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:20:50.716 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:20:55.473 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:20:55.488 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:20:56.665 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:23:24.430 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:23:25.690 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:23:30.586 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:23:30.595 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:26:47.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:26:47.628 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+18:26:47.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.632 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.633 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.634 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.634 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.635 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.635 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.636 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.638 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.638 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.639 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.642 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.642 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.645 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.645 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.646 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.646 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.654 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+18:26:47.658 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+18:26:47.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:26:47.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:26:47.674 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-366827728\testng-customsuite.xml
+
+18:26:47.697 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+18:26:48.577 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:26:56.619 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:26:57.933 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:27:02.626 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:27:02.637 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:27:37.066 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:27:38.250 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:27:42.957 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:27:42.964 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:27:44.107 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:28:40.190 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:28:41.543 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:28:46.588 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:28:46.594 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:28:47.674 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:29:43.926 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:29:45.184 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:29:50.090 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:29:50.102 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:29:51.340 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:30:11.221 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:30:12.452 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:30:17.093 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:30:17.099 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:30:18.343 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:31:11.505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:31:12.727 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:31:17.373 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:31:17.381 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:31:18.705 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:42:26.543 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+18:42:27.762 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:42:32.517 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+18:42:32.526 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+18:42:33.780 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
