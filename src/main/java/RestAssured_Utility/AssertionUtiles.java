@@ -6,6 +6,8 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
 
+import org.testng.asserts.SoftAssert;
+
 import com.aventstack.extentreports.markuputils.Markup;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 
@@ -14,8 +16,12 @@ import Reporting.Setup;
 import io.restassured.response.Response;
 
 public class AssertionUtiles {
+	
+	
+	
     public static void assertExceptedValuseWithJsonPath(Response response, Map<String,Object> expectedValuesMap)
     {
+    	SoftAssert softAssert = new SoftAssert();
 
         List<AssertionKeys> actualValuesMap = new ArrayList<>();
 
@@ -34,13 +40,18 @@ public class AssertionUtiles {
 
                 if (stringValue.equals(expectedStringValue)) {
                     actualValuesMap.add(new AssertionKeys(jsonPath, expectedValuesMap.get(jsonPath), value, "Matched"));
+                    
                 } else {
                     allMatched = false;
                     actualValuesMap.add(new AssertionKeys(jsonPath, expectedValuesMap.get(jsonPath), value, "Not Matched"));
+                    //softAssert.assertEquals(expectedValuesMap.get(jsonPath), value);
+                    softAssert.fail("Check: View Assertion Details");
                 }
             } else {
                 allMatched = false;
                 actualValuesMap.add(new AssertionKeys(jsonPath, expectedValuesMap.get(jsonPath), "Value not found", "Not Matched"));
+                //softAssert.fail(expectedValuesMap.get(jsonPath)+" : Value not found");
+                softAssert.fail("Check: View Assertion Details");
             }
         }
 
@@ -62,7 +73,7 @@ public class AssertionUtiles {
             String arrayAssertionViewDetails = "<details><summary><span style='font-weight:bold';>View Assertion Details</span></summary>" + tableHtml.getMarkup()+ "</details>";
             Setup.extentTest.get().info((arrayAssertionViewDetails));
            
-
+            softAssert.assertAll();
     }
 
 }

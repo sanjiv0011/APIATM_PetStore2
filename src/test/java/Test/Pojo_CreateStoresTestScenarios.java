@@ -8,9 +8,13 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
+import javax.lang.model.element.Element;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -29,7 +33,7 @@ public class Pojo_CreateStoresTestScenarios extends StoreAPIs {
 	Logger logger = LogManager.getLogger(Pojo_CreateStoresTestScenarios.class);
 	SoftAssert softAssert;
 
-	// @Test(dataProvider = "createPetOrderDataTestScenarios")
+	//@Test(dataProvider = "createPetOrderDataTestScenarios")
 	public void createPetOrderAndVerifyData(Pojo_CraeteStores pojo_CraeteStores) {
 
 		softAssert = new SoftAssert();
@@ -64,13 +68,10 @@ public class Pojo_CreateStoresTestScenarios extends StoreAPIs {
 
 	@Test(dataProvider = "createPetOrderDataTestScenarios")
 	public void createPetOrderAndVerifyData2(Pojo_CraeteStores pojo_CraeteStores) {
-
-		ExtentTest test = Setup.extentReports.createTest("TestCaseID: " + pojo_CraeteStores.getTestCaseID() +" And TestScenarioDescription: "+pojo_CraeteStores.getTestScenarioDescription());
-		Setup.extentTest.set(test);
-		
+		logger.info("Start test: createPetOrderDataTestScenarios");
+		testCaseDetails(pojo_CraeteStores);
 		
 		softAssert = new SoftAssert();
-		logger.info("Start test: createPetOrderDataTestScenarios");
 
 		Response response = createPetOrder(pojo_CraeteStores);
 		Map<String, Object> expectedValueMap = new HashMap<>();
@@ -99,6 +100,20 @@ public class Pojo_CreateStoresTestScenarios extends StoreAPIs {
 
 	}
 
+
+	public void testCaseDetails(Pojo_CraeteStores pojo_CraeteStores) {
+	    String callerMethod = Thread.currentThread().getStackTrace()[2].getMethodName();
+
+	    Setup setup = new Setup();
+	    Map<String, String> labelsToAddOnReport = new LinkedHashMap<>(); // Use LinkedHashMap
+	    labelsToAddOnReport.put("TestCaseID", pojo_CraeteStores.getTestCaseID());
+	    labelsToAddOnReport.put("TestMethodName", callerMethod);
+	    labelsToAddOnReport.put("TestScenarioDescription", pojo_CraeteStores.getTestScenarioDescription());
+	    setup.writeTestDetailsOnReport(labelsToAddOnReport);
+	}
+
+	
+	
 	@DataProvider(name = "createPetOrderDataTestScenarios")
 	public Iterator<Pojo_CraeteStores> getCreateStoreData() throws IOException {
 

@@ -442,3 +442,631 @@
 18:42:32.517 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
 18:42:32.526 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
 18:42:33.780 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+20:51:16.550 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+20:51:17.802 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+20:51:22.481 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+20:51:22.487 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+20:51:23.756 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+21:10:58.376 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+21:10:59.624 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+21:11:04.484 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+21:11:04.496 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+21:11:05.781 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+21:23:25.474 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+21:23:26.737 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+21:23:31.615 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+21:23:31.633 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+21:23:32.902 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+21:36:07.459 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+21:36:08.780 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+21:36:13.841 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+21:36:13.851 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+21:36:15.085 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:24:13.256 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:24:14.864 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:24:19.927 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:24:19.936 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:24:21.141 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:29:19.793 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:29:21.442 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:29:26.531 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:29:26.545 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:29:27.741 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:38:19.828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:38:21.157 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:38:26.655 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:38:26.671 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:38:27.928 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:39:38.638 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:39:39.947 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:39:44.731 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:39:44.739 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:39:45.867 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:42:19.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:42:21.246 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:43:30.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:43:31.734 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:44:26.587 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:44:27.935 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:45:43.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:45:44.931 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:45:49.612 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:45:49.620 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:45:50.831 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:49:26.740 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:49:27.955 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:49:32.604 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:49:32.612 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:49:33.782 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:50:29.173 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:50:30.468 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:50:30.506 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:56:48.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:56:49.203 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:56:54.198 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:56:54.204 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:56:55.371 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:58:23.290 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:58:24.498 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:58:29.223 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:58:29.235 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:58:30.443 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:00:58.062 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:00:59.372 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:01:04.307 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:01:04.314 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:01:05.521 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:04:04.184 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:07:39.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:07:40.333 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:07:46.614 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:07:46.619 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:07:47.839 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:08:13.833 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:08:15.141 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:08:19.875 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:08:19.882 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:08:21.018 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:26:53.863 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:26:55.177 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:26:59.985 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:26:59.998 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:27:01.182 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:32:23.364 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:32:24.665 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:32:29.411 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:32:29.417 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:32:30.587 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:37:18.421 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:37:19.723 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:37:24.384 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:37:24.396 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:37:25.583 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:42:08.511 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:42:09.766 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:42:14.610 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:42:14.616 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:42:15.862 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:51:37.028 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:51:38.445 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:51:38.470 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:52:01.414 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:52:02.691 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:52:02.717 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:52:46.182 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:52:47.550 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:52:52.173 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:52:52.182 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:52:53.388 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:53:54.132 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:53:55.470 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:54:00.304 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:54:00.312 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:54:01.836 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:54:46.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:54:48.151 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:54:48.182 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:55:47.384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:55:48.650 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:56:24.065 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:56:25.411 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:56:30.138 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:56:30.145 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:56:31.348 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:58:49.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:58:50.920 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:58:55.558 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:58:55.564 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:58:56.744 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+09:03:23.847 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+09:03:25.239 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:03:30.079 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+09:03:30.084 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:03:31.258 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+09:53:50.617 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+09:53:51.546 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:53:51.569 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:55:52.357 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+09:55:53.303 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:55:53.328 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:58:02.345 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+09:58:02.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+09:58:02.361 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.361 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.362 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.366 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.367 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.369 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.370 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.371 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.371 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.372 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.373 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.379 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.380 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.381 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.381 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.383 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.384 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.385 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.385 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.396 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+09:58:02.402 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+09:58:02.404 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.404 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.405 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:58:02.405 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:58:02.420 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--960812586\testng-customsuite.xml
+
+09:58:02.447 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+09:58:03.444 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:58:07.076 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:58:08.643 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@667797f: 389 ms
+09:58:08.824 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@41e8d917: 181 ms
+09:58:09.008 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3be80ece: 184 ms
+09:58:09.024 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@27afbf14: 16 ms
+09:58:09.044 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2b7774d5: 19 ms
+09:58:09.068 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@d62472f: 23 ms
+09:58:09.069 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@63a84bb6: 0 ms
+09:58:17.433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+09:58:18.605 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:58:22.313 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:59:00.935 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+09:59:02.209 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:59:06.861 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+09:59:06.875 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+09:59:08.022 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:09:45.973 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:09:47.324 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:09:52.236 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:09:52.242 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:09:53.440 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:13:35.113 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:13:36.388 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:13:41.180 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:13:41.192 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:13:42.366 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:15:59.815 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:16:01.028 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:16:05.678 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:16:05.687 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:16:06.919 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:18:44.477 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:18:45.661 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:18:45.681 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:19:19.508 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:19:20.728 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:19:20.746 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:19:52.314 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:19:53.523 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:19:58.225 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:19:58.232 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:19:59.500 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:22:32.128 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:22:33.407 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:22:38.167 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:22:38.174 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:22:39.378 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:24:09.179 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:24:10.440 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:24:15.222 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:24:15.232 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:24:16.433 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:25:53.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:25:54.446 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:25:59.215 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:25:59.223 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:26:00.922 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:31:23.280 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:31:24.462 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:31:29.262 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:31:29.270 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:31:30.434 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:35:23.232 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:35:24.501 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:35:29.224 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:35:29.232 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:35:30.503 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:43:05.167 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:43:06.507 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:43:06.527 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:45:10.111 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:45:11.360 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:45:16.361 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:45:16.369 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:45:17.624 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:50:48.467 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:50:49.740 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:50:54.575 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:50:54.585 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:50:55.756 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:53:11.686 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:53:17.111 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:53:18.405 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:53:32.036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:53:33.261 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:53:43.888 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:53:45.153 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:53:49.900 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:53:49.909 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:53:51.094 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:54:31.249 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:54:32.456 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:57:24.552 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:57:25.806 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:57:25.836 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:57:30.946 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:58:32.833 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:58:33.989 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:58:34.020 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:58:38.573 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+10:59:53.364 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+10:59:54.531 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+10:59:58.952 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:04:12.757 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:04:13.925 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:04:18.518 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:04:18.527 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:04:19.729 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:07:28.702 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:07:29.925 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:07:34.719 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:07:34.731 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:07:35.977 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+11:17:12.730 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:17:13.933 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:17:18.754 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:23:40.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:23:41.836 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:23:46.711 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:26:06.847 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:26:08.085 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:28:33.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:28:34.453 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:28:39.183 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:30:29.071 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:30:30.271 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:30:35.106 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:31:41.288 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:31:42.466 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:33:17.872 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:33:19.105 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:33:23.996 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:34:19.969 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:34:21.143 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:34:25.880 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:37:55.040 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:37:56.268 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:38:01.257 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:40:46.586 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:40:47.795 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:40:52.383 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:46:31.199 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:46:32.378 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:46:37.111 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:48:49.918 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+11:48:51.198 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+11:48:55.895 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:00:06.830 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:00:34.377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:02:54.256 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:04:30.046 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:04:30.059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+12:04:30.063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.069 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:04:30.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:04:30.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+12:04:30.100 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+12:05:37.875 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:05:39.146 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:05:43.978 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:06:30.119 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:06:31.377 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:06:36.101 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:09:54.767 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:09:56.209 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:10:00.871 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:17:01.209 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:17:02.486 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:17:07.384 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:20:03.411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:20:04.598 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:20:09.296 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:22:25.033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:22:26.307 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:22:31.101 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:24:34.215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:24:35.438 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:24:40.370 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:26:50.193 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:26:51.519 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:26:56.200 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+12:41:23.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+12:42:24.422 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:02:04.106 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:02:05.322 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:02:09.977 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:03:00.315 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:03:01.523 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:03:06.208 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:04:05.304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:04:06.496 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:04:11.083 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:04:43.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:04:45.295 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:04:49.865 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:06:19.896 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:06:21.121 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:06:25.821 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:08:53.731 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:08:54.955 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:08:59.707 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:13:21.762 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:13:22.983 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:13:27.753 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:18:28.583 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:18:29.778 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:18:34.585 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:23:41.382 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:23:42.607 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:23:47.394 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:23:48.675 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:25:02.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:25:03.834 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:25:08.414 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:25:09.639 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:32:24.841 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:32:26.032 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:32:30.641 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:32:31.935 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:32:33.162 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+13:35:34.677 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:35:35.865 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:35:40.552 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:35:41.745 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:35:42.897 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios
+13:50:55.229 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\My Drive\Sanjiv\Eclipse_Project\APIATM_Framework_PetStore\PetStore2_API_Automation\testng.xml
+
+13:50:56.944 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:51:03.584 [main] INFO  Test.Pojo_CreateStoresTestScenarios - Start test: createPetOrderDataTestScenarios
+13:51:04.764 [main] INFO  Test.Pojo_CreateStoresTestScenarios - End test: createPetOrderDataTestScenarios

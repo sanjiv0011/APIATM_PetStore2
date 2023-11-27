@@ -8,7 +8,7 @@
     <classes>
       <class name="Test.Pojo_CreateStoresTestScenarios">
         <methods>
-          <include name="createPetOrderAndVerifyData" invocation-numbers="1"/>
+          <include name="createPetOrderAndVerifyData2" invocation-numbers="0"/>
         </methods>
       </class> <!-- Test.Pojo_CreateStoresTestScenarios -->
     </classes>
